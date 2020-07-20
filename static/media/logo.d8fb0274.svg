@@ -1,0 +1,13 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+    <metadata>Created by @DanBullockCS</metadata>
+    <g fill="dodgerblue" stroke="black" stroke-width="10">
+        <circle cx="125" cy="250" r="75"/>
+    </g>
+    <g fill="#f50057" stroke="black" stroke-width="10">
+        <circle cx="250" cy="250" r="75"/>
+    </g>
+    <g fill="white" stroke="black" stroke-width="10">
+        <circle cx="175" cy="345" r="75"/>
+    </g>
+</svg>
